@@ -1,8 +1,8 @@
-package sy;
+package sy26;
 
 import java.util.Scanner;
 
-public class sy {
+public class sy26 {
 	public static void main(String[] args) {
 		int i,j=0,n;
 		Scanner reader=new Scanner(System.in);
